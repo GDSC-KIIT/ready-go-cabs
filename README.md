@@ -22,7 +22,7 @@ This is an Actions on Google to compliment the services provided by this Bhubane
 
 ## Sample Screenshots
 
-<img src="/screenshots/main-menu.jpg?raw=true" alt="Main Menu" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/about.jpg?raw=true" alt="About" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/past-events.jpg?raw=true" alt="Past Events" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/contact.jpg?raw=true" alt="Contact" style="float: left; margin-right: 20px;" width='200' border="2" /> 
+<img src="/screenshots/main-menu.jpg?raw=true" alt="Main Menu" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/ride-type.jpg?raw=true" alt="Ride Type" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/cab-type.jpg?raw=true" alt="Cab Type" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/confirmation.jpg?raw=true" alt="Confirmation" style="float: left; margin-right: 20px;" width='200' border="2" /> 
 
 
 ## License
